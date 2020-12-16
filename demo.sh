@@ -1,0 +1,1 @@
+python main.py -c imgs/dancing.jpg -s imgs/picasso.jpg -o imgs/output.jpg
